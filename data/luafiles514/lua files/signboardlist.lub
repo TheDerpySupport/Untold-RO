@@ -3,26 +3,9 @@ IT_BMP = 1
 IT_SPRITE = 2
 IT_SIGNBOARD = 3
 SignBoardList = {
-	{
-		"Default",
-		157,
-		278,
-		0,
-		IT_BMP,
-		"유저인터페이스\\collection\\꽃가지.bmp",
-		"Cannot enter",
-		"#0x009EBDFF"
-	},
-	{
-		"prontera",
-		151,
-		192,
-		10,
-		IT_SIGNBOARD,
-		"유저인터페이스\\item\\all_prontera_recall.bmp",
-		"  Global Event",
-		"#0x00FFFFFF"
-	},
+--  { "Map Name", X, Y, D, TYPE, "Emblem/Texture Location", "Signboard Text", "#0x00112233" },
+	{ "Default", 157, 278, 0, IT_BMP, "유저인터페이스\\collection\\꽃가지.bmp", "Cannot enter", "#0x009EBDFF" },
+--	{ "prontera", 151, 192, 10, IT_SIGNBOARD, "유저인터페이스\\item\\all_prontera_recall.bmp", "  Global Event", "#0x00FFFFFF" },
 	{ "alberta", 113, 60, 0, IT_BMP, "유저인터페이스\\information\\over_kafra.bmp" },
 	{ "alberta", 120, 60, 0, IT_BMP, "유저인터페이스\\information\\over_guide.bmp" },
 	{ "alberta", 184, 143, 0, IT_BMP, "유저인터페이스\\information\\over_guide.bmp" },
