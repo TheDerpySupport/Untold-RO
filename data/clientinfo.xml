@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="euc-kr" ?>
+<clientinfo>
+	<desc>Ragnarok Client Information</desc>
+	<servicetype>korea</servicetype>
+	<servertype>primary</servertype>
+	<connection>
+		<display>Untold RO</display>
+		<desc>Closed Alpha</desc>
+		<balloon>1x | 1x | 1x</balloon>
+      		<address>127.0.0.1</address>
+      		<port>6900</port>
+      		<version>20170614</version>
+      		<langtype>1</langtype>
+		<registrationweb>discord.gg/aTZNbdn</registrationweb>
+		<aid>
+			<admin>2000000</admin>
+		</aid>
+		<loading>
+			<image>loading00.jpg</image>
+		</loading>
+   	</connection>
+</clientinfo>
