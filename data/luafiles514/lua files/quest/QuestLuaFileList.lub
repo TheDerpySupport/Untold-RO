@@ -5,4 +5,4 @@ function Add( luafilename )
 end
 
 Add[[localquest\local_untoldep1quest_list]]
-Add[[localquest\questinfo\l_untoldep_info]]
+Add[[localquest\questinfo\l_untoldep1_list]]
