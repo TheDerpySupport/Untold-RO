@@ -1,0 +1,25 @@
+UntoldEp1Quest_List = {
+		[11182] = { 
+				NPCFromName = [[Theore]],
+				NPCFromMap = [[mid_camp]],
+				NPCFromSpr = [[4_F_SCIENCE]],
+				NPCFromX = 148,
+				NPCFromY = 222,
+				NPCToName = [[Theore]],
+				NPCToMap = [[mid_camp]],
+				NPCToSpr = [[4_F_SCIENCE]],
+				NPCToX = 148,
+				NPCToY = 222,
+				Item = [[]],
+				PrizeItem = [[]],
+				Title = [[Theore's Report]],
+				Info = [[Theore seems to be in a manic state. Wait for him to calm down and talk to him again.]],
+				QuickInfo  = [[]],
+				Hunt1 = [[]],
+				Hunt2 = [[]],
+				Hunt3 = [[]],
+				Time = [[60]],
+				LV = [[0]],
+			},
+}
+_G.QuestTable.addList("UntoldEp1Quest",UntoldEp1Quest_List)

@@ -1,0 +1,8 @@
+QuestLuaFileList = {};
+
+function Add( luafilename )
+	QuestLuaFileList[ #QuestLuaFileList + 1 ] =  luafilename;
+end
+
+Add[[localquest\local_untoldep1quest_list]]
+Add[[localquest\questinfo\l_untoldep_info]]

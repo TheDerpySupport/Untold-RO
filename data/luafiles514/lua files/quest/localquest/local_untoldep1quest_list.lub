@@ -1,0 +1,39 @@
+LOCAL_UntoldEp1Quest_List = {
+					{
+						name =[[EP 1.0 Untold RO]],
+						imagefile = [[ep_test_sample.bmp]],
+						list = {
+									{
+										name  =	[[Lope and Euridi]],
+										list = {
+												{
+													name =[[Lope and Euridi - Survivors of the forest fog.]],
+													scrfilename = [[UntoldEp1Quest]],
+													questID = 1109,
+												},
+											}
+									},
+									{
+										name =[[Mora village Sauna research]],
+										list = {
+												{
+													name =[[Bring me Research Tools]],
+													scrfilename = [[UntoldEp1Quest]],
+													questID = 5016,
+												},
+											}
+									},
+									{
+										name =[[Theore's Report]],
+										list = {
+												{
+													name =[[Theore's Report]],
+													scrfilename = [[UntoldEp1Quest]],
+													questID = 11182,
+												},
+											}
+									},
+							},
+					},
+		}
+_G.QuestTable.add(LOCAL_UntoldEp1Quest_List, "EP")
