@@ -1,13 +1,13 @@
 UntoldEp1Quest_List = {
 	[1019] = {
-		NPCFromName = [[Dastgir]],
+		NPCFromName = [[Randgris]],
 		NPCFromMap = [[new_1-1]],
-		NPCFromSpr = [[4_M_01]],
+		NPCFromSpr = [[VALKYRIE_A]],
 		NPCFromX = 63,
 		NPCFromY = 53,
-		NPCToName = [[Dastgir]],
+		NPCToName = [[Athena]],
 		NPCToMap = [[prontera]],
-		NPCToSpr = [[4_M_01]],
+		NPCToSpr = [[4_F_VALKYRIE]],
 		NPCToX = 86,
 		NPCToY = 84,
 		Item = [[]],
@@ -20,29 +20,7 @@ UntoldEp1Quest_List = {
 		Hunt3 = [[]],
 		Time = [[0]],
 		LV = [[0]],
-	},
-	[1017] = {
-		NPCFromName = [[Dastgir-1]],
-		NPCFromMap = [[prontera]],
-		NPCFromSpr = [[4_BRICKPILE]],
-		NPCFromX = 84,
-		NPCFromY = 123,
-		NPCToName = [[Dastgir-2]],
-		NPCToMap = [[payon]],
-		NPCToSpr = [[4_BOARD3]],
-		NPCToX = 76,
-		NPCToY = 114,
-		Item = [[]],
-		PrizeItem = [[]],
-		Title = [[Event QuestInfo ]],
-		Info = [[Testing the Event.]],
-		QuickInfo = [[QuickInfo.]],
-		Hunt1 = [[Alarm]],
-		Hunt2 = [[]],
-		Hunt3 = [[]],
-		Time = [[0]],
-		LV = [[0]],
-	},
+	}
 
 }
 

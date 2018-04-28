@@ -17,21 +17,6 @@ LOCAL_UntoldEp1Quest_List = {
 						questID = 1017,
 					}
 				}
-			},
-			{
-				name  =	[[Quests 11~25]],
-				list = {
-					{
-						name =[[11-15]],
-						scrfilename = [[UntoldEp1Quest]],
-						questID = 1017,
-					},
-					{
-						name =[[16-20]],
-						scrfilename = [[UntoldEp1Quest]],
-						questID = 1019,
-					},
-				}
 			}
 		}
 	}
