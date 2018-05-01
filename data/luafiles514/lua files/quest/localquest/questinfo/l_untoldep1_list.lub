@@ -1,13 +1,13 @@
 UntoldEp1Quest_List = {
 	[1019] = {
-		NPCFromName = [[Randgris]],
+		NPCFromName = [[Dummy]],
 		NPCFromMap = [[new_1-1]],
-		NPCFromSpr = [[VALKYRIE_A]],
+		NPCFromSpr = [[4_F_NYDHOG]],
 		NPCFromX = 63,
 		NPCFromY = 53,
-		NPCToName = [[Athena]],
+		NPCToName = [[Treasure]],
 		NPCToMap = [[prontera]],
-		NPCToSpr = [[4_F_VALKYRIE]],
+		NPCToSpr = [[4_M_ARCHER]],
 		NPCToX = 86,
 		NPCToY = 84,
 		Item = [[]],
